@@ -1,0 +1,16 @@
+.Odd {
+    background-color: rgb(243, 141, 158);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#No2 {
+    color: blue;
+    font-size: 36px;
+}
+.Odd.Three {
+    font-size: 24px;
+}
+#No4 {
+    background-color: rgb(127, 253, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
